@@ -14,5 +14,5 @@ Secondly, on September 2022 I have agreed with FAB-Casa del Mig to develop an ea
 
 Thirdly, it is intended to be an open project designed to help any maker with their wearable circuits, as well as to improve the current version based on feedback from the maker community.
 
-Finally, this repository will include the final version and all earlier ones as soon as possible. 
+Finally, this repository will include the final version and all earlier ones as soon as possible, as well as future modifications.
 
