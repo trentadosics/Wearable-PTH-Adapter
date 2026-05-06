@@ -18,6 +18,6 @@ Finally, this repository will include the final version and all earlier ones as 
 
 Stay tuned!
 
-<img width="1080" height="746" alt="wearableAdapter" src="https://github.com/user-attachments/assets/e8da60db-2327-413b-867a-88fc88ad0941" />
+<img width="289" height="200" alt="wearableAdapter" src="https://github.com/user-attachments/assets/e8da60db-2327-413b-867a-88fc88ad0941" />
 
 
