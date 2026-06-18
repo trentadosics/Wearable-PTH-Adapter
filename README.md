@@ -5,7 +5,7 @@ Wearable project (supported by FAB-Casa del Mig, Barcelona) - June 2025
 
 Supported by: FAB - Casa del Mig (Barcelona; Oriol Blas, Ricard Gómez, Neus Martínez and Dimecres FAB community)
 
-## Abstract
+## Overview
 This project aims to support the mounting and testing of wearable devices on protoboards.  
 
 Firstly, it began as a personal challenge on August 2022, to improve the testing of electronic circuits with wearable components on protoboards.  
