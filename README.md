@@ -1,9 +1,7 @@
-*to be updated*
+*last updated June 20, 2026*
 
 # Wearable-PTH-Adapter
-Wearable project (supported by FAB-Casa del Mig, Barcelona) - June 2025
-
-Supported by: 
+Wearable electronics project supported by: 
 - FAB - Casa del Mig (Barcelona, Catalonia; Oriol Blas, Ricard Gómez, Neus Martínez and Dimecres FAB community)
 - Makers United (Chemnitz, Germany)
 - Auf weiter flu ev (Augustusburg, Germany; Nadine, Paula and all the residents)
