@@ -1,1 +1,1 @@
-This folder contains the stable versions.
+This folder will contain the stable versions.
