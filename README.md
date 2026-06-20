@@ -6,8 +6,6 @@ Wearable electronics project supported by:
 - [Makers United](https://www.makers-united.de/en/) (Chemnitz, Germany)
 - [Auf weiter flu ev](https://www.aufweiterflur.org/) (Augustusburg, Germany; Nadine, Paula and all the residents)
 
-- [here](https://www.printables.com/model/720285-swiss-cutlery-set)
-
 ## Overview
 This project aims to support the mounting and testing of wearable devices on protoboards.  
 
