@@ -2,9 +2,11 @@
 
 # Wearable-PTH-Adapter
 Wearable electronics project supported by: 
-- FAB - Casa del Mig (Barcelona, Catalonia; Oriol Blas, Ricard Gómez, Neus Martínez and Dimecres FAB community)
-- Makers United (Chemnitz, Germany)
-- Auf weiter flu ev (Augustusburg, Germany; Nadine, Paula and all the residents)
+- [FAB - Casa del Mig](https://www.fabcasadelmig.cat/) (Barcelona, Catalonia; Oriol Blas, Ricard Gómez, Neus Martínez and Dimecres FAB community)
+- [Makers United](https://www.makers-united.de/en/) (Chemnitz, Germany)
+- [Auf weiter flu ev](https://www.aufweiterflur.org/) (Augustusburg, Germany; Nadine, Paula and all the residents)
+
+- [here](https://www.printables.com/model/720285-swiss-cutlery-set)
 
 ## Overview
 This project aims to support the mounting and testing of wearable devices on protoboards.  
