@@ -4,3 +4,7 @@ gcode files
 - from Orca Slicer to Snap Maker U1 (from Auf Weiter flur ev)
 - from Prusa Slicer to Prusa MK3S+ (from FAB-Casa del Mig)
 - from Prusa Slicer to Prusa Mini (from Auf Weiter flur ev)
+
+Parameters
+- Keep all the parameters by default and add some supports organic or tree supports
+- Standard PLA
