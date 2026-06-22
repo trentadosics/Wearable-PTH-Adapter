@@ -1,0 +1,2 @@
+- Keep all the parameters by default and add some supports organic or tree supports
+- Standard PLA  
