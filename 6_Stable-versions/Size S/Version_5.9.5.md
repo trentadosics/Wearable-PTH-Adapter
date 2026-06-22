@@ -2,3 +2,4 @@
 - Standard PLA  
 
 [Printables](https://www.printables.com/model/1761447-wearable-pth-adapter)  
+[Demo video](https://youtu.be/wnYniloRnMs)
