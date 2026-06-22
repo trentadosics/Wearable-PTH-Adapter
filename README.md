@@ -21,7 +21,7 @@ Stay tuned!
 
 <img width="289" height="200" alt="wearableAdapter" src="https://github.com/user-attachments/assets/e8da60db-2327-413b-867a-88fc88ad0941" />
 
-<img width="2508" height="1960" alt="prototip1_1_lowRes_retocat" src="https://github.com/user-attachments/assets/e18bed26-fa9f-4f2f-98aa-eb8039e6c8c2" />
+<img width="289" height="200" alt="prototip1_1_lowRes_retocat" src="https://github.com/user-attachments/assets/e18bed26-fa9f-4f2f-98aa-eb8039e6c8c2" />
 
 [Demo video](https://youtu.be/wnYniloRnMs)
 
