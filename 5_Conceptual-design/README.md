@@ -1,3 +1,3 @@
 UNDER CONSTRUCTION...
 
-This folder contains all project iterations, documenting the development process and making it easier to track changes and improve future stable releases.
+This folder will contain all project iterations, documenting the development process and making it easier to track changes and improve future stable releases.
