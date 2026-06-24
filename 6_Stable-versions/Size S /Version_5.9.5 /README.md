@@ -14,15 +14,15 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 1. Cut a piece of rigid wire, approximately 30 mm long
 2. Using the pliers, make a small loop (about 2-3 mm in diameter) at one end of each wire. The loop should fit inside Part 2
 
-   <img width="100" height="103.41" alt="instructions_1-2" src="https://github.com/user-attachments/assets/ad2cd28f-3b3b-4c1c-805b-420c60d5e550" />
+   <img width="193.40" height="200" alt="instructions_1-2" src="https://github.com/user-attachments/assets/ad2cd28f-3b3b-4c1c-805b-420c60d5e550" />
 
 3. Place a small piece of metal sponge inside Part 2, positioning it in one corner
 
-   <img width="100" height="77.5" alt="instructions_3" src="https://github.com/user-attachments/assets/39c263ea-3cd0-4bc9-b04e-60528cc57221" />
+   <img width="258.06" height="200" alt="instructions_3" src="https://github.com/user-attachments/assets/39c263ea-3cd0-4bc9-b04e-60528cc57221" />
 
 4. Insert one wire through one of the small holes in Part 2. The assembly should form a sandwich: Part 2 at the bottom, the metal sponge in the middle, and the wire at the top passing through both
 
-   <img width="100" height="73.28" alt="instructions_4" src="https://github.com/user-attachments/assets/6732159f-d5e5-49ef-a9bd-b705612c24ae" />
+   <img width="272.93" height="200" alt="instructions_4" src="https://github.com/user-attachments/assets/6732159f-d5e5-49ef-a9bd-b705612c24ae" />
 
    
 5. Apply a small amount of liquid glue to the underside of Part 2, around the wire hole, to secure the wire
