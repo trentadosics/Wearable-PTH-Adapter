@@ -1,6 +1,6 @@
 Find all the files here and on [Printables](https://www.printables.com/model/1761447-wearable-pth-adapter).  
 
-## List of materials and tools
+## Materials and tools
 - Part 1 and Part 2 (3D printed)
 - 0.5–0.7 mm rigid wires without insulation (length can be adjusted)
 - Metal sponge
@@ -8,7 +8,7 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 - Scissors
 - Pliers
 
-## How to assemble it
+## Assembly instructions
 1. Cut a piece of rigid wire, approximately 30 mm long
 2. Using the pliers, make a small loop (about 2–3 mm in diameter) at one end of each wire. The loop should fit inside Part 2.
 3. Place a small piece of metal sponge inside Part 2, positioning it in one corner
