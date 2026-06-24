@@ -1,6 +1,6 @@
 Find all the files here and on [Printables](https://www.printables.com/model/1761447-wearable-pth-adapter).  
 
-***List of materials and tools***
+**List of materials and tools**
 - Part 1 and part 2 3D printed
 - 4x 0.5-0.7mm diameter rigid wire without insulation (length adjustable)
 - Metallic sponge
@@ -16,4 +16,6 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 5. Put a bit of glue below part 2, where the wire's hole is
 6. Cut a piece a copper tape and put it onto part 1
 7. Assemble part 1 into part 2
-8. 
+8. Repeat steps from 1 to 6 and make a test of conductivy
+
+Now you have your wearable PTH adapter
