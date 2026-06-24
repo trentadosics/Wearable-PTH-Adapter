@@ -12,7 +12,7 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 ## Assembly instructions
 1. Cut a piece of rigid wire, approximately 30 mm long
 2. Using the pliers, make a small loop (about 2-3 mm in diameter) at one end of each wire. The loop should fit inside Part 2
-          <img width="938" height="970" alt="instructions_1-2" src="https://github.com/user-attachments/assets/ad2cd28f-3b3b-4c1c-805b-420c60d5e550" />
+          <img width="200" height="206.82" alt="instructions_1-2" src="https://github.com/user-attachments/assets/ad2cd28f-3b3b-4c1c-805b-420c60d5e550" />
 
 
 3. Place a small piece of metal sponge inside Part 2, positioning it in one corner
