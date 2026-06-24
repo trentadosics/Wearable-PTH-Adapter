@@ -1,21 +1,21 @@
 Find all the files here and on [Printables](https://www.printables.com/model/1761447-wearable-pth-adapter).  
 
 ## List of materials and tools
-- Part 1 and part 2 3D printed
-- 4x 0.5-0.7mm diameter rigid wire without insulation (length adjustable)
-- Metallic sponge
+- Part 1 and Part 2 (3D printed)
+- 0.5–0.7 mm rigid wires without insulation (length can be adjusted)
+- Metal sponge
 - Liquid glue
-- A pair of scissors
-- A pair of pliers
+- Scissors
+- Pliers
 
 ## How to assemble it
-1. Cut a pieces of rigid wire of 30mm approximately
-2. Make a little loop on a tip of 2-3mm approximately, it has to fit inside part 2
-3. Put one small pieces of sponge inside part 2, onto one corner
-4. Then insert one wire into one small hole of part 2. You will have like a sandwich of: part 2 (below), a piece of metallic sponge (in the middle) and part of rigid wire (above and through the sandwich)
-5. Put a bit of glue below part 2, where the wire's hole is
-6. Cut a piece a copper tape and put it onto part 1
-7. Assemble part 1 into part 2
-8. Repeat steps from 1 to 6 and make a test of conductivy
+1. Cut a piece of rigid wire, approximately 30 mm long
+2. Using the pliers, make a small loop (about 2–3 mm in diameter) at one end of each wire. The loop should fit inside Part 2.
+3. Place a small piece of metal sponge inside Part 2, positioning it in one corner
+4. Insert one wire through one of the small holes in Part 2. The assembly should form a sandwich: Part 2 at the bottom, the metal sponge in the middle, and the wire at the top passing through both
+5. Apply a small amount of liquid glue to the underside of Part 2, around the wire hole, to secure the wire
+6. Cut a piece of copper conductive tape and apply it to Part 1
+7. Assemble Part 1 and Part 2
+8. Repeat steps 1–6 for the remaining connections and perform a continuity test to verify that all electrical contacts work correctly
 
-**Now you have your wearable PTH adapter. Good Job!**
+**Your Wearable PTH Adapter is now ready to use. Great job!**
