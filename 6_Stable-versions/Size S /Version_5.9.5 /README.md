@@ -17,6 +17,6 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 5. Apply a small amount of liquid glue to the underside of Part 2, around the wire hole, to secure the wire
 6. Cut a piece of copper conductive tape and apply it to Part 1
 7. Assemble Part 1 and Part 2
-8. Repeat steps 1–6 for the remaining connection and perform a continuity test to verify that all electrical contacts work correctly
+8. Repeat steps 1-6 for the remaining connection and perform a continuity test to verify that all electrical contacts work correctly
 
 Your Wearable PTH Adapter is now ready to use. Great job!
