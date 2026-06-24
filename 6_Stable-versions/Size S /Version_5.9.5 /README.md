@@ -4,6 +4,7 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 - Part 1 and Part 2 (3D printed)
 - 0.5–0.7 mm rigid wires without insulation (length can be adjusted)
 - Metal sponge
+- Elastic band
 - Liquid glue
 - Scissors
 - Pliers
@@ -18,4 +19,4 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 7. Assemble Part 1 and Part 2
 8. Repeat steps 1–6 for the remaining connection and perform a continuity test to verify that all electrical contacts work correctly
 
-**Your Wearable PTH Adapter is now ready to use. Great job!**
+Your Wearable PTH Adapter is now ready to use. Great job!
