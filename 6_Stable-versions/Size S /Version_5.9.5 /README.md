@@ -8,8 +8,7 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 - Liquid glue
 - Scissors
 - Pliers
-  <br><br><img width="236.58" height="100" alt="material_part1-2" src="https://github.com/user-attachments/assets/1db27fde-ac8a-419e-aa1b-6ce88791b94f" />  <img width="71.56" height="100" alt="material_rigid-wire" src="https://github.com/user-attachments/assets/52c70365-6089-40ec-83eb-09a9dd7c11fb" />
-  <br><img width="114.18" height="100" alt="material_metal-sponge" src="https://github.com/user-attachments/assets/9c1c5769-1021-4933-8c0a-7e9b6ae242dd" />  <img width="96.02" height="100" alt="material_elastic-band" src="https://github.com/user-attachments/assets/dfcfdc66-a688-47e0-aaa8-2ae2af7be380" />
+  <br><br><img width="236.58" height="100" alt="material_part1-2" src="https://github.com/user-attachments/assets/1db27fde-ac8a-419e-aa1b-6ce88791b94f" />  <img width="71.56" height="100" alt="material_rigid-wire" src="https://github.com/user-attachments/assets/52c70365-6089-40ec-83eb-09a9dd7c11fb" /> <img width="114.18" height="100" alt="material_metal-sponge" src="https://github.com/user-attachments/assets/9c1c5769-1021-4933-8c0a-7e9b6ae242dd" />  <img width="96.02" height="100" alt="material_elastic-band" src="https://github.com/user-attachments/assets/dfcfdc66-a688-47e0-aaa8-2ae2af7be380" />
 
 ## Assembly instructions
 1. Cut a piece of rigid wire, approximately 30 mm long
