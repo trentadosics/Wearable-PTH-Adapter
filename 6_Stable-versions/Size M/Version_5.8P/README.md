@@ -1,6 +1,6 @@
 Find all the files here and on [Printables](https://www.printables.com/model/1761447-wearable-pth-adapter).  
 
-**List of materials and tools**
+*List of materials and tools*
 - Part 1 and part 2 3D printed
 - 4x 0.5-0.7mm diameter rigid wire without insulation (length adjustable)
 - Metallic sponge
