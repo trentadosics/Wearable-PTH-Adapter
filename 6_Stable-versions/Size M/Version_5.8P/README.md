@@ -19,3 +19,5 @@ Find all the files here and on [Printables](https://www.printables.com/model/176
 8. Repeat steps from 1 to 6 and make a test of conductivy
 
 Now you have your wearable PTH adapter
+
+Good Job!
